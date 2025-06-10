@@ -55,6 +55,6 @@ I'm probably recharging my own batteries. You can find me:
 
 ### 📫 Find Me Here
 <p align="left">
-  <a href="linkedin.mackiewicz.info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" /></a>
+  <a href="https://linkedin.mackiewicz.info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" /></a>
   <a href="mailto:git@mackiewicz.info" target="blank"><img align="center" src="https://img.shields.io/badge/Contact_Me-333333?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Me" /></a>
 </p>
