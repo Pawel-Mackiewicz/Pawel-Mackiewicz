@@ -14,7 +14,7 @@ I believe that while LLMs are great for boilerplate, they can't beat a human dev
 
 -   **🎯 On The Hunt:** Seeking my next big adventure as a **full-time Java Software Engineer**. Got a tough challenge for me? Let's talk!
 -   🤝 **Calling All Devs:** My open-source project, **[BankApp](https://github.com/BankApp-project)**, is looking for collaborators. If you want to build cool stuff and squash some bugs, join the quest!
--   🌱 **Leveling Up:** Currently deep in the rabbit hole of **System Design and Algos**
+-   🌱 **Leveling Up:** Currently deep in the rabbit hole of **System Design and pub/sub (RabbitMQ)**
 
 ---
 
