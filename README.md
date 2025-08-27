@@ -1,9 +1,5 @@
 # Hey, I'm Pawel 👋
 
-<a href="https://github.com/BankApp-project/bankapp-backend">
-  <img align="right" width="280px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Digital brain with glowing connections, representing problem-solving."/>
-</a>
-
 > My brain is wired for puzzles. A gnarly bug, a tricky Sudoku, or a complex system design—I'm the person who gets a kick out of solving them. I've been turning that obsession into robust Java applications since I first compiled `Hello, World!` at 12.
 
 I believe that while LLMs are great for boilerplate, they can't beat a human developer when it comes to crafting **solid, high-quality architecture**. That's my sweet spot.
