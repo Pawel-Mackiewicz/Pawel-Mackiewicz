@@ -10,12 +10,7 @@ I believe that while LLMs are great for boilerplate, they can't beat a human dev
 
 -   **🎯 On The Hunt:** Seeking my next big adventure as a **full-time Java Software Engineer**. Got a tough challenge for me? Let's talk!
 -   🤝 **Calling All Devs:** My open-source project, **[BankApp](https://github.com/BankApp-project)**, is looking for collaborators. If you want to build cool stuff and squash some bugs, join the quest!
--   🌱 **Leveling Up:### 🏆 My Main Quest: BankApp
-
-This is my pride and joy. What began as a "let's see what happens" multithreading experiment evolved into a full-blown, cloud-deployed banking application. It's proof that a solid foundation and a bit of obsession can go a long way.
-
-[![BankApp Backend Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BankApp-project&repo=bankapp-backend&theme=tokyonight&show_owner=true)](https://github.com/BankApp-project/bankapp-backend)
-** Currently deep in the rabbit hole of **System Design and pub/sub (RabbitMQ)**
+-   🌱 **Leveling Up:** Currently deep in the rabbit hole of **System Design and pub/sub (RabbitMQ)**
 
 ---
 
