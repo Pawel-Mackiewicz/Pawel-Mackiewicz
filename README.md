@@ -1,56 +1,91 @@
-# Hey, I'm Pawel 👋
+# Hey, I'm Paweł 👋
 
-> My brain is wired for puzzles. A gnarly bug, a tricky Sudoku, or a complex system design—I'm the person who gets a kick out of solving them. I've been turning that obsession into robust Java applications since I first compiled `Hello, World!` at 12.
+**Java Software Engineer | Szczecin, Poland**
 
-I believe that while LLMs are great for boilerplate, they can't beat a human developer when it comes to crafting **solid, high-quality architecture**. That's my sweet spot.
+> I build distributed systems that solve real problems. Before writing code, I ask "why are we building this?"—then I architect solutions that businesses can actually scale and maintain. I specialize in **event-driven architectures, microservices, and systems that handle concurrency correctly**.
 
----
-
-### 🚀 What I'm Up To
-
--   **🎯 On The Hunt:** Seeking my next big adventure as a **full-time Java Software Engineer**. Got a tough challenge for me? Let's talk!
--   🤝 **Calling All Devs:** My open-source project, **[BankApp](https://github.com/BankApp-project)**, is looking for collaborators. If you want to build cool stuff and squash some bugs, join the quest!
--   🌱 **Leveling Up:** Currently deep in the rabbit hole of **System Design and pub/sub (RabbitMQ)**
+TDD practitioner. Infrastructure-as-code advocate. Believer that the best engineering is invisible to users but invaluable to the business.
 
 ---
 
-### 🧰 My Toolbox (go-to techstack)
+## What I'm Up To
+
+- **Open to Opportunities:** Seeking full-time **Java Software Engineer** roles with teams that value business context, maintain high engineering standards, and build systems for long-term success. Open to relocation (EU, UK).
+  
+- **Current Focus:** Strengthening expertise in algorithms, data structures, and system design patterns
+---
+
+## 🧰 Core Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring-Boot6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/Spring-Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 </p>
 
----
-
-### 🏆 My Main Quest: BankApp
-
-This is my pride and joy. What began as a "let's see what happens" multithreading experiment evolved into a full-blown, cloud-deployed banking application. It's proof that a solid foundation and a bit of obsession can go a long way.
-
-[![BankApp Backend Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BankApp-project&repo=bankapp-backend&theme=tokyonight&show_owner=true)](https://github.com/BankApp-project/bankapp-backend)
+**Architecture:** Microservices • Event-Driven • Hexagonal • Domain-Driven Design  
+**Practices:** Test-Driven Development • Infrastructure as Code • CI/CD
 
 ---
 
-### 🔋 When I'm Not Coding...
+## 💼 Featured Projects
 
-I'm probably recharging my own batteries. You can find me:
--   ⛰️ Conquering a mountain trail
--   🛶 Paddling down a river
--   🥋 Tangling with people in pajamas (BJJ)
--   🧘 Finding my inner zen with yoga
+### Passwordless Authentication System
+**Live Demo:** [auth.bankapp.online](https://auth.bankapp.online)
 
-...and yes, there's always a Sudoku puzzle within arm's reach.
+Built a production WebAuthn authentication system in collaboration with a PM, business analyst, and UX designers. The goal: eliminate password-based authentication while maintaining full control over credential storage and avoiding vendor lock-in.
+
+**What I delivered:**
+- Microservices architecture with clear boundaries: REST API for authentication + async AMQP service for notifications via RabbitMQ
+- Test-Driven Development using red-green-refactor cycles throughout
+- Infrastructure-as-code deployment enabling one-command provisioning of the entire stack (Docker, PostgreSQL, RabbitMQ, Cloudflare tunnel, Nginx)
+
+**Tech:** Java 25 • Spring Boot • Spring Security • RabbitMQ • WebAuthn • PostgreSQL • Docker • Cloudflare
+
+[![Auth System Repo](https://github-readme-stats.vercel.app/api/pin/?username=BankApp-project&repo=auth&theme=tokyonight&show_owner=true)](https://github.com/BankApp-project/auth)
 
 ---
 
-### 📫 Find Me Here
+### BankApp
+**Live Demo:** [bankapp.mackiewicz.info](https://bankapp.mackiewicz.info)
+
+Built a banking application to explore concurrent transaction processing and data integrity patterns in financial systems. The core challenge: preventing race conditions when multiple requests attempt to modify the same account balance simultaneously.
+
+**My approach:**
+- Implemented pessimistic locking with Spring Data JPA and PostgreSQL to guarantee transaction isolation
+- Wrote comprehensive JUnit tests specifically targeting concurrency scenarios
+- Automated deployment through GitHub Actions to AWS infrastructure (EC2 + RDS)
+
+**Tech:** Java 21 • Spring Boot • PostgreSQL • AWS (EC2, RDS) • Docker • GitHub Actions
+
+[![BankApp Repo](https://github-readme-stats.vercel.app/api/pin/?username=pawel-mackiewicz&repo=bankapp&theme=tokyonight&show_owner=true)](https://github.com/pawel-mackiewicz/bankapp)
+
+---
+
+## 🏔️ When I'm Not Coding
+
+Recharging by:
+- ⛰️ Hiking mountain trails
+- 🛶 Kayaking  
+- 🧖 Sauna sessions
+- 🧘 Practicing yoga
+
+(And yes, there's usually a Sudoku puzzle nearby)
+
+---
+
+## 📫 Let's Connect
+
 <p align="left">
-  <a href="https://linkedin.mackiewicz.info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:git@mackiewicz.info" target="blank"><img align="center" src="https://img.shields.io/badge/Contact_Me-333333?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Me" /></a>
+  <a href="https://linkedin.mackiewicz.info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:career@mackiewicz.info" target="blank"><img align="center" src="https://img.shields.io/badge/Contact_Me-333333?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
 </p>
+
+---
+
+**This good to ship?**
