@@ -1,8 +1,6 @@
 # Hey, I'm Paweł 👋
 
-**Java Software Engineer | Szczecin, Poland**
-
-> I build distributed systems that solve real problems. Before writing code, I ask "why are we building this?"—then I architect solutions that businesses can actually scale and maintain. I specialize in **event-driven architectures, microservices, and systems that handle concurrency correctly**.
+**Java Software Developer | Szczecin, Poland**
 
 TDD practitioner. Infrastructure-as-code advocate. Believer that the best engineering is invisible to users but invaluable to the business.
 
@@ -38,7 +36,7 @@ TDD practitioner. Infrastructure-as-code advocate. Believer that the best engine
 ### Passwordless Authentication System
 **Live Demo:** [auth.bankapp.online](https://auth.bankapp.online)
 
-Built a production WebAuthn authentication system in collaboration with a PM, business analyst, and UX designers. The goal: eliminate password-based authentication while maintaining full control over credential storage and avoiding vendor lock-in.
+Built a production-ready WebAuthn authentication system in collaboration with a business analyst, and UX designers. The goal: eliminate password-based authentication while maintaining full control over credential storage and avoiding vendor lock-in.
 
 **What I delivered:**
 - Microservices architecture with clear boundaries: REST API for authentication + async AMQP service for notifications via RabbitMQ
