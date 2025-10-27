@@ -1,14 +1,14 @@
 # Hey, I'm Paweł 👋
 
-**Java Software Developer | Szczecin, Poland**
+**Java Software Developer**
 
-TDD practitioner. Infrastructure-as-code advocate. Believer that the best engineering is invisible to users but invaluable to the business.
+ Backend architecture, microservices, and CI/CD. Passionate about building secure and scalable solutions.
 
 ---
 
 ## What I'm Up To
 
-- **Open to Opportunities:** Seeking full-time **Java Software Engineer** roles with teams that value business context, maintain high engineering standards, and build systems for long-term success. Open to relocation (EU, UK).
+- **Open to Opportunities:** Seeking full-time **Java Software Engineer** roles with teams that value business context, maintain high engineering standards, and build systems for long-term success. Open to relocation.
   
 - **Current Focus:** Strengthening expertise in algorithms, data structures, and system design patterns
 ---
@@ -49,7 +49,7 @@ Built a production-ready WebAuthn authentication system in collaboration with a 
 
 ---
 
-### BankApp
+### BankApp's Core Transaction System
 **Live Demo:** [bankapp.mackiewicz.info](https://bankapp.mackiewicz.info)
 
 Built a banking application to explore concurrent transaction processing and data integrity patterns in financial systems. The core challenge: preventing race conditions when multiple requests attempt to modify the same account balance simultaneously.
@@ -68,10 +68,10 @@ Built a banking application to explore concurrent transaction processing and dat
 ## 🏔️ When I'm Not Coding
 
 Recharging by:
+- 🧘 Practicing yoga
 - ⛰️ Hiking mountain trails
 - 🛶 Kayaking  
 - 🧖 Sauna sessions
-- 🧘 Practicing yoga
 
 (And yes, there's usually a Sudoku puzzle nearby)
 
