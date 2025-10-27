@@ -1,6 +1,6 @@
 # Hey, I'm Paweł 👋
 
-Java Developer specializing in secure and resilient backend architecture. I enjoy solving complex challenges in microservices, concurrency, and CI/CD automation to build robust, production-ready systems.
+**Java Developer** specializing in secure and resilient backend architecture. I enjoy solving complex challenges in microservices, concurrency, and CI/CD automation to build robust, production-ready systems.
 
 ---
 
