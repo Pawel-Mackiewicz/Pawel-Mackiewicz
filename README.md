@@ -1,12 +1,8 @@
 # Hi, I'm Paweł 👋
 
-**Java Developer** specializing in secure and resilient backend architecture. I enjoy solving complex challenges in microservices, concurrency, and CI/CD automation to build robust, production-ready systems.
-
----
-
 ## What I'm Up To
 
-- **Open to Opportunities:** Seeking full-time **Java Software Engineer** roles with teams that value business context, maintain high engineering standards, and build systems for long-term success. Open to relocation.
+- **Open to Opportunities:** Seeking full-time **Software Engineer** roles with teams that value business context, maintain high engineering standards, and build systems for long-term success. Open to relocation.
   
 - **Current Focus:** Strengthening expertise in algorithms, data structures, and system design patterns
 ---
