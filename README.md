@@ -1,10 +1,9 @@
 # Hi, I'm Paweł 👋
 
-## What I'm Up To
+Just a guy who loves solving problems with good code.
 
-- **Open to Opportunities:** Seeking full-time **Software Developer** roles with teams that value business context, maintain high engineering standards, and build systems for long-term success. Open to relocation.
-  
-- **Current Focus:** Strengthening expertise in algorithms, data structures, and system design patterns
+**Current Focus:** *LeetCode for fun & Frontend for skills*
+
 ---
 
 ## 🧰 Core Tech Stack
