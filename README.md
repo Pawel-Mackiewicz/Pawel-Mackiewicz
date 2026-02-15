@@ -49,7 +49,7 @@ Built a production-ready WebAuthn authentication system in collaboration with a 
 ---
 
 ### BankApp's Core Transaction System
-**Live Demo:** [bankapp.mackiewicz.info](https://bankapp.mackiewicz.info)
+**Live Demo:** [bankapp.online](https://bankapp.online)
 
 Built a banking application to explore concurrent transaction processing and data integrity patterns in financial systems. The core challenge: preventing race conditions when multiple requests attempt to modify the same account balance simultaneously.
 
