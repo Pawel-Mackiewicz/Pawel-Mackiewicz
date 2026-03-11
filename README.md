@@ -29,18 +29,18 @@ Just a guy who loves solving problems with good code.
 **Practices:** Test-Driven Development • Infrastructure as Code • CI/CD • DDD
 
 ---
-
 ## 💼 Featured Projects
 
 ### Passwordless Authentication System
-**Live Demo:** [auth.bankapp.online](https://auth.bankapp.online)
+**Live Demo:** [auth.bankapp.online](https://auth.bankapp.online) | **Repo:** [BankApp-project/auth](https://github.com/bankapp-project/auth)
 
-Built a production-ready WebAuthn authentication system in collaboration with a business analyst, and UX designers. The goal: eliminate password-based authentication while maintaining full control over credential storage and avoiding vendor lock-in.
+A production-ready, completely passwordless authentication system based on the WebAuthn standard (Passkeys), built as a group project. The goal was to create an exceptionally user-friendly flow (one click + email) while eliminating password-related risks and account enumeration vulnerabilities.
 
-**What I delivered:**
-- Microservices architecture with clear boundaries: REST API for authentication + async AMQP service for notifications via RabbitMQ
-- Test-Driven Development using red-green-refactor cycles throughout
-- Infrastructure-as-code deployment enabling one-command provisioning of the entire stack (Docker, PostgreSQL, RabbitMQ, Cloudflare tunnel, Nginx)
+**Architecture & Engineering:**
+- **Microservices Architecture:** Clear boundaries featuring a REST API for authentication and an async AMQP service for notifications via RabbitMQ.
+- **Robust Security:** Completely eliminated account enumeration possibilities and vendor lock-in while maintaining full control over credential storage.
+- **Infrastructure as Code (IaC):** Delivered a DevOps solution that enables one-command provisioning of the entire stack (Docker, PostgreSQL, RabbitMQ, Cloudflare tunnel, Nginx), allowing a new server to spin up in minutes.
+- **TDD:** Driven by strict red-green-refactor cycles.
 
 **Tech:** Java 25 • Spring Boot • Spring Security • RabbitMQ • WebAuthn • PostgreSQL • Docker • Cloudflare
 
@@ -48,19 +48,64 @@ Built a production-ready WebAuthn authentication system in collaboration with a 
 
 ---
 
-### BankApp's Core Transaction System
-**Live Demo:** [bankapp.online](https://bankapp.online)
+### BankApp Core Transaction System
+**Live Demo:** [bankapp.online](https://bankapp.online) | **Repo:** [pawel-mackiewicz/bankapp](https://github.com/bankapp-project/bankapp-backend)
 
-Built a banking application to explore concurrent transaction processing and data integrity patterns in financial systems. The core challenge: preventing race conditions when multiple requests attempt to modify the same account balance simultaneously.
+A banking backend co-developed with other IT enthusiasts to deeply explore multithreading, concurrency challenges, and data integrity in financial systems. The core challenge: building a system completely resilient to race conditions when multiple requests modify the same balance.
 
-**My approach:**
-- Implemented pessimistic locking with Spring Data JPA and PostgreSQL to guarantee transaction isolation
-- Wrote comprehensive JUnit tests specifically targeting concurrency scenarios
-- Automated deployment through GitHub Actions to AWS infrastructure (EC2 + RDS)
+**Architecture & Engineering:**
+- **Concurrency Control:** Implemented pessimistic locking with Spring Data JPA and PostgreSQL to guarantee transaction isolation.
+- **Feature-Rich Banking Module:** Extended the system to include account creation, user management, inter-account transfers, strict IBAN validation, and transaction history tracking.
+- **Testing & CI/CD:** Wrote comprehensive JUnit tests targeting complex concurrency scenarios and automated AWS deployments via GitHub Actions.
 
 **Tech:** Java 21 • Spring Boot • PostgreSQL • AWS (EC2, RDS) • Docker • GitHub Actions
 
-[![BankApp Repo](https://github-readme-stats.vercel.app/api/pin/?username=pawel-mackiewicz&repo=bankapp&theme=tokyonight&show_owner=true)](https://github.com/pawel-mackiewicz/bankapp)
+[![BankApp Repo](https://github-readme-stats.vercel.app/api/pin/?username=bankapp-project&repo=bankapp-backend&theme=tokyonight&show_owner=true)](https://github.com/bankapp-project/bankapp-backend)
+
+---
+
+### Socratic
+**Repo:**[pawel-mackiewicz/socratic](https://github.com/pawel-mackiewicz/socratic)
+
+An AI-powered educational application built to consolidate scattered lifelong learning processes into a single, cohesive ecosystem. An entirely vibecoded project that I actively use and develop on a daily basis.
+
+**Key Features:**
+- **AI Integration:** Personalized learning paths structured around Bloom's taxonomy.
+- **Automated Content:** Auto-generation of flashcards based on previously studied concepts.
+- **Spaced Repetition:** Integrated the SuperMemo-2 algorithm to power a highly effective flashcard system for mastering both general knowledge and foreign language vocabulary.
+
+**Tech:** Codex • Antigravity • React
+
+[![Socratic Repo](https://github-readme-stats.vercel.app/api/pin/?username=pawel-mackiewicz&repo=socratic&theme=tokyonight&show_owner=true)](https://github.com/pawel-mackiewicz/socratic)
+
+---
+
+### Spong-Fu (Boot.dev Hackathon)
+**Repo:**[spong-fu/spongfu](https://github.com/spong-fu/spongfu)
+
+A browser-based multiplayer game developed from scratch in just 72 hours by a 3-person international team (India, USA, Poland). Built during the Boot.dev hackathon, competing among 2,000+ participants. 
+
+**Engineering Highlights:**
+- **Real-Time Multiplayer:** Designed and established seamless client-server communication using WebSockets.
+- **Backend Mechanics:** Engineered the core server-side logic, including a custom collision detection system, physics simulation, and an active player matchmaking queue.
+
+**Tech:** Java • JavaScript • WebSockets
+
+[![Spong-Fu Repo](https://github-readme-stats.vercel.app/api/pin/?username=spong-fu&repo=spongfu&theme=tokyonight&show_owner=true)](https://github.com/spong-fu/spongfu)
+
+---
+
+### Potrzebnik
+**Repo:** [potrzebnik/potrzebnik](https://github.com/potrzebnik/potrzebnik)
+
+A platform is actively being built to connect pro bono organizations (such as orphanages) with potential donors. 
+
+**Project Dynamics:**
+- Developed in a cross-functional team environment collaborating closely with a Product Owner, UX Designers, and Frontend/Backend developers to deliver real-world social value.
+
+**Tech:** Next.js • TypeScript • Drizzle ORM
+
+[![Potrzebnik Repo](https://github-readme-stats.vercel.app/api/pin/?username=potrzebnik&repo=potrzebnik&theme=tokyonight&show_owner=true)](https://github.com/potrzebnik/potrzebnik)
 
 ---
 
