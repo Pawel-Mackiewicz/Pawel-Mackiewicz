@@ -31,8 +31,11 @@ Just a guy who loves solving problems with good code.
 ---
 ## 💼 Featured Projects
 
-### Passwordless Authentication System
-**Live Demo:** [auth.bankapp.online](https://auth.bankapp.online) | **Repo:** [BankApp-project/auth](https://github.com/bankapp-project/auth)
+### Passwordless Authentication System 
+
+**Live Demo:** [auth.bankapp.online](https://auth.bankapp.online)
+
+[![Auth System Repo](https://github-readme-stats.vercel.app/api/pin/?username=BankApp-project&repo=auth&theme=tokyonight&show_owner=true)](https://github.com/BankApp-project/auth)
 
 A production-ready, completely passwordless authentication system based on the WebAuthn standard (Passkeys), built as a group project. The goal was to create an exceptionally user-friendly flow (one click + email) while eliminating password-related risks and account enumeration vulnerabilities.
 
@@ -44,12 +47,13 @@ A production-ready, completely passwordless authentication system based on the W
 
 **Tech:** Java 25 • Spring Boot • Spring Security • RabbitMQ • WebAuthn • PostgreSQL • Docker • Cloudflare
 
-[![Auth System Repo](https://github-readme-stats.vercel.app/api/pin/?username=BankApp-project&repo=auth&theme=tokyonight&show_owner=true)](https://github.com/BankApp-project/auth)
-
 ---
 
 ### BankApp Core Transaction System
-**Live Demo:** [bankapp.online](https://bankapp.online) | **Repo:** [pawel-mackiewicz/bankapp](https://github.com/bankapp-project/bankapp-backend)
+
+**Swagger:** [bankapp.online](https://bankapp.online)
+
+[![BankApp Repo](https://github-readme-stats.vercel.app/api/pin/?username=bankapp-project&repo=bankapp-backend&theme=tokyonight&show_owner=true)](https://github.com/bankapp-project/bankapp-backend)
 
 A banking backend co-developed with other IT enthusiasts to deeply explore multithreading, concurrency challenges, and data integrity in financial systems. The core challenge: building a system completely resilient to race conditions when multiple requests modify the same balance.
 
@@ -60,28 +64,11 @@ A banking backend co-developed with other IT enthusiasts to deeply explore multi
 
 **Tech:** Java 21 • Spring Boot • PostgreSQL • AWS (EC2, RDS) • Docker • GitHub Actions
 
-[![BankApp Repo](https://github-readme-stats.vercel.app/api/pin/?username=bankapp-project&repo=bankapp-backend&theme=tokyonight&show_owner=true)](https://github.com/bankapp-project/bankapp-backend)
-
----
-
-### Socratic
-**Repo:**[pawel-mackiewicz/socratic](https://github.com/pawel-mackiewicz/socratic)
-
-An AI-powered educational application built to consolidate scattered lifelong learning processes into a single, cohesive ecosystem. An entirely vibecoded project that I actively use and develop on a daily basis.
-
-**Key Features:**
-- **AI Integration:** Personalized learning paths structured around Bloom's taxonomy.
-- **Automated Content:** Auto-generation of flashcards based on previously studied concepts.
-- **Spaced Repetition:** Integrated the SuperMemo-2 algorithm to power a highly effective flashcard system for mastering both general knowledge and foreign language vocabulary.
-
-**Tech:** Codex • Antigravity • React
-
-[![Socratic Repo](https://github-readme-stats.vercel.app/api/pin/?username=pawel-mackiewicz&repo=socratic&theme=tokyonight&show_owner=true)](https://github.com/pawel-mackiewicz/socratic)
-
 ---
 
 ### Spong-Fu (Boot.dev Hackathon)
-**Repo:**[spong-fu/spongfu](https://github.com/spong-fu/spongfu)
+
+[![Spong-Fu Repo](https://github-readme-stats.vercel.app/api/pin/?username=spong-fu&repo=spongfu&theme=tokyonight&show_owner=true)](https://github.com/spong-fu/spongfu)
 
 A browser-based multiplayer game developed from scratch in just 72 hours by a 3-person international team (India, USA, Poland). Built during the Boot.dev hackathon, competing among 2,000+ participants. 
 
@@ -91,12 +78,11 @@ A browser-based multiplayer game developed from scratch in just 72 hours by a 3-
 
 **Tech:** Java • JavaScript • WebSockets
 
-[![Spong-Fu Repo](https://github-readme-stats.vercel.app/api/pin/?username=spong-fu&repo=spongfu&theme=tokyonight&show_owner=true)](https://github.com/spong-fu/spongfu)
-
 ---
 
 ### Potrzebnik
-**Repo:** [potrzebnik/potrzebnik](https://github.com/potrzebnik/potrzebnik)
+
+[![Potrzebnik Repo](https://github-readme-stats.vercel.app/api/pin/?username=potrzebnik&repo=potrzebnik&theme=tokyonight&show_owner=true)](https://github.com/potrzebnik/potrzebnik)
 
 A platform is actively being built to connect pro bono organizations (such as orphanages) with potential donors. 
 
@@ -105,7 +91,19 @@ A platform is actively being built to connect pro bono organizations (such as or
 
 **Tech:** Next.js • TypeScript • Drizzle ORM
 
-[![Potrzebnik Repo](https://github-readme-stats.vercel.app/api/pin/?username=potrzebnik&repo=potrzebnik&theme=tokyonight&show_owner=true)](https://github.com/potrzebnik/potrzebnik)
+---
+
+### Socratic
+[![Socratic Repo](https://github-readme-stats.vercel.app/api/pin/?username=pawel-mackiewicz&repo=socratic&theme=tokyonight&show_owner=true)](https://github.com/pawel-mackiewicz/socratic)
+
+An AI-powered educational application built to consolidate scattered lifelong learning processes into a single, cohesive ecosystem. An entirely vibecoded project that I actively use and develop on a daily basis.
+
+**Key Features:**
+- **AI Integration:** Personalized learning paths structured around Bloom's taxonomy.
+- **Automated Content:** Auto-generation of flashcards based on previously studied concepts.
+- **Spaced Repetition:** Integrated the SuperMemo-2 algorithm to power a highly effective flashcard system for mastering both general knowledge and foreign language vocabulary.
+
+**Tech:** Codex • Antigravity • React
 
 ---
 
