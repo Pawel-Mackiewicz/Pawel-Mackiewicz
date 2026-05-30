@@ -2,7 +2,7 @@
 
 Just a guy who loves solving problems with good code.
 
-**Current Focus:** *LeetCode for fun & Frontend for skills*
+**Current Focus:** *LeetCode for fun & Software Architecture for skills*
 
 ---
 
