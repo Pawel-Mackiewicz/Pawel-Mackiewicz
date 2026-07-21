@@ -1,39 +1,14 @@
 # Hi, I'm Paweł 👋
 
-Just a guy who loves solving problems with good code.
+Coding for fun.
+Coding for bread.
 
-**Current Focus:** *LeetCode for fun & Software Architecture for skills*
-
----
-
-## 🧰 Core Tech Stack
-
-<div align="left">
- <p>
-    <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring-Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/></a>
-    <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/></a>
-  </p>
-  <p>
-    <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-    <a href="https://www.rabbitmq.com" target="_blank"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/></a>
-    <a href="https://redis.io" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
-  </p>
-  <p>
-    <a href="https.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-    <a href="https://www.vim.org/" target="_blank"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/></a>
-  </p>
-</div>
-
-**Practices:** Test-Driven Development • Infrastructure as Code • CI/CD • DDD
+**Practices:** DDD • Hexagonal Architecture • Test-Driven Development • Infrastructure as Code • CI/CD
 
 ---
 ## 💼 Featured Projects
 
 ### Passwordless Authentication System 
-
-**Live Demo:** [auth.bankapp.online](https://auth.bankapp.online)
 
 [![Auth System Repo](https://github-readme-stats.vercel.app/api/pin/?username=BankApp-project&repo=auth&theme=tokyonight&show_owner=true)](https://github.com/BankApp-project/auth)
 
@@ -50,8 +25,6 @@ A production-ready, completely passwordless authentication system based on the W
 ---
 
 ### BankApp Core Transaction System
-
-**Swagger:** [bankapp.online](https://bankapp.online)
 
 [![BankApp Repo](https://github-readme-stats.vercel.app/api/pin/?username=bankapp-project&repo=bankapp-backend&theme=tokyonight&show_owner=true)](https://github.com/bankapp-project/bankapp-backend)
 
